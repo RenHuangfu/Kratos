@@ -1,0 +1,2 @@
+2024-01-23T16:57:21.194+0800	ERROR	interfaces/admin.go:134	ImportCoupon|err:AdminService|ImportCoupon|adminCase|ImportCoupon prize_type is not coupon with prize_id 73
+2024-01-23T16:57:59.036+0800	ERROR	interfaces/admin.go:134	ImportCoupon|err:AdminService|ImportCoupon|adminCase|ImportCoupon prize_type is not coupon with prize_id 73

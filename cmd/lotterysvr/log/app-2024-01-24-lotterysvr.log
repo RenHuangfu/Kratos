@@ -1,0 +1,527 @@
+2024-01-24T01:11:46.074+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T01:11:46.076+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 97.847ms, rows: 4
+2024-01-24T02:22:51.724+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T02:22:51.725+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.92875ms, rows: 4
+2024-01-24T03:32:10.254+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T03:32:10.255+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.360167ms, rows: 4
+2024-01-24T05:31:36.593+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T05:31:36.594+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 91.306791ms, rows: 4
+2024-01-24T06:23:32.429+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T06:23:32.430+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.822834ms, rows: 4
+2024-01-24T07:59:01.507+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T07:59:01.508+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 81.135584ms, rows: 4
+2024-01-24T09:43:32.550+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T09:43:32.551+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.740083ms, rows: 4
+2024-01-24T12:48:01.759+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:48:01.776+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:48:01.776+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 14.667375ms, rows: 4
+2024-01-24T12:48:01.776+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:48:01.800+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:48:01.800+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 13.496417ms, rows: 4
+2024-01-24T12:49:01.789+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:49:01.860+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:49:01.860+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 70.066041ms, rows: 4
+2024-01-24T12:49:01.860+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:50:01.877+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:50:01.949+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:50:01.949+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 72.182875ms, rows: 4
+2024-01-24T12:50:01.950+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:50:36.707+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:50:36.723+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:50:36.723+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.264417ms, rows: 4
+2024-01-24T12:50:36.723+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:50:36.790+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:50:36.790+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 68.195791ms, rows: 4
+2024-01-24T12:51:36.741+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:51:36.816+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:51:36.816+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 74.318334ms, rows: 4
+2024-01-24T12:51:36.816+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:52:36.835+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:52:36.908+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:52:36.908+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 71.932ms, rows: 4
+2024-01-24T12:52:36.908+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:53:36.929+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:53:37.003+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:53:37.004+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 73.51325ms, rows: 4
+2024-01-24T12:53:37.004+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:54:37.023+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:54:37.095+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:54:37.095+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 71.520667ms, rows: 4
+2024-01-24T12:54:37.095+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:55:36.873+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:55:36.873+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 69.397667ms, rows: 4
+2024-01-24T12:55:37.112+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:55:37.129+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:55:37.130+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.600208ms, rows: 4
+2024-01-24T12:55:37.130+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:56:37.145+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:56:37.216+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:56:37.217+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 71.000625ms, rows: 4
+2024-01-24T12:56:37.217+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:57:37.232+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:57:37.299+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:57:37.299+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 65.822667ms, rows: 4
+2024-01-24T12:57:37.299+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:58:37.320+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:58:37.387+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:58:37.387+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 66.56375ms, rows: 4
+2024-01-24T12:58:37.387+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T12:59:19.945+0800	INFO	service/lotteryv1.go:38	LotteryV1|user_id=7
+2024-01-24T12:59:20.051+0800	INFO	log/gormlog.go:53	caller is lotterytimes.go:42
+2024-01-24T12:59:20.051+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 84.892625ms, rows: 0
+2024-01-24T12:59:20.163+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:74
+2024-01-24T12:59:20.163+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_lottery_times` (`user_id`,`day`,`num`,`sys_created`,`sys_updated`) VALUES (7,20240124,1,'2024-01-24 12:59:20.064','2024-01-24 12:59:20.064'), time: 111.718917ms, rows: 1
+2024-01-24T12:59:20.208+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T12:59:20.208+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 29.34625ms, rows: 0
+2024-01-24T12:59:20.224+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T12:59:20.224+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 16.0055ms, rows: 0
+2024-01-24T12:59:23.917+0800	INFO	service/lotteryv1.go:100	Trace-ID:, LotteryHandlerV1|prizeCode=6108
+
+2024-01-24T12:59:23.950+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T12:59:23.950+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 12:59:23.917' AND end_time >= '2024-01-24 12:59:23.917' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 33.076083ms, rows: 4
+2024-01-24T12:59:24.006+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T12:59:24.006+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 55.352ms, rows: 1
+2024-01-24T12:59:24.046+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T12:59:24.046+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 26.497458ms, rows: 1
+2024-01-24T12:59:24.103+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T12:59:24.103+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 12:59:24.059',`sys_status`=2 WHERE `id` = 2, time: 56.546125ms, rows: 1
+2024-01-24T12:59:24.175+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T12:59:24.175+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',6108,'','2024-01-24 12:59:24.13','192.168.32.11',1), time: 58.884042ms, rows: 1
+2024-01-24T12:59:37.406+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T12:59:37.422+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T12:59:37.423+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.325375ms, rows: 4
+2024-01-24T12:59:37.423+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:00:36.972+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:00:36.972+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.915792ms, rows: 4
+2024-01-24T13:00:37.438+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:00:37.453+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:00:37.453+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 14.791125ms, rows: 4
+2024-01-24T13:00:37.454+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:01:37.769+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:01:37.783+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:01:37.783+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 13.642209ms, rows: 4
+2024-01-24T13:01:37.783+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:01:37.810+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:01:37.810+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 14.483ms, rows: 4
+2024-01-24T13:01:42.217+0800	INFO	service/lotteryv1.go:38	LotteryV1|user_id=7
+2024-01-24T13:01:42.261+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:01:42.261+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 29.809458ms, rows: 1
+2024-01-24T13:01:42.396+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:01:42.396+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=2,`sys_updated`='2024-01-24 13:01:42.275' WHERE `id` = 2, time: 134.675416ms, rows: 1
+2024-01-24T13:01:42.439+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:01:42.440+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 27.984ms, rows: 0
+2024-01-24T13:01:42.455+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:01:42.455+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 15.054125ms, rows: 0
+2024-01-24T13:01:42.455+0800	INFO	service/lotteryv1.go:100	Trace-ID:, LotteryHandlerV1|prizeCode=9898
+
+2024-01-24T13:01:42.484+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:01:42.484+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:01:42.455' AND end_time >= '2024-01-24 13:01:42.455' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 28.560709ms, rows: 4
+2024-01-24T13:01:42.547+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:01:42.547+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 62.49375ms, rows: 1
+2024-01-24T13:01:42.591+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:01:42.591+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 28.68575ms, rows: 1
+2024-01-24T13:01:42.649+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:01:42.650+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:01:42.606',`sys_status`=2 WHERE `id` = 3, time: 58.354292ms, rows: 1
+2024-01-24T13:01:42.724+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:01:42.724+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',9898,'','2024-01-24 13:01:42.681','192.168.32.11',1), time: 58.013125ms, rows: 1
+2024-01-24T13:02:37.801+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:02:37.868+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:02:37.868+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 67.009333ms, rows: 4
+2024-01-24T13:02:37.868+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:10:28.605+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:10:28.607+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.73575ms, rows: 4
+2024-01-24T13:10:28.661+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:10:28.676+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:10:28.676+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 14.607125ms, rows: 4
+2024-01-24T13:10:28.676+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:10:54.562+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:10:54.609+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:10:54.609+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 30.968167ms, rows: 1
+2024-01-24T13:10:54.728+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:10:54.728+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=3,`sys_updated`='2024-01-24 13:10:54.625' WHERE `id` = 2, time: 118.124708ms, rows: 1
+2024-01-24T13:10:54.775+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:10:54.775+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 29.987042ms, rows: 0
+2024-01-24T13:10:54.793+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:10:54.793+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 17.165375ms, rows: 0
+2024-01-24T13:10:54.793+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=1280
+
+2024-01-24T13:10:54.825+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:10:54.825+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:10:54.793' AND end_time >= '2024-01-24 13:10:54.793' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 31.146125ms, rows: 4
+2024-01-24T13:10:57.596+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:10:57.643+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:10:57.643+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 30.475125ms, rows: 1
+2024-01-24T13:10:57.705+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:10:57.705+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=4,`sys_updated`='2024-01-24 13:10:57.658' WHERE `id` = 2, time: 61.971417ms, rows: 1
+2024-01-24T13:10:57.749+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:10:57.749+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 28.691208ms, rows: 0
+2024-01-24T13:10:57.763+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:10:57.764+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.038292ms, rows: 0
+2024-01-24T13:10:57.764+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=9312
+
+2024-01-24T13:10:57.797+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:10:57.797+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:10:57.764' AND end_time >= '2024-01-24 13:10:57.764' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 33.022333ms, rows: 4
+2024-01-24T13:10:57.857+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:10:57.857+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 59.266959ms, rows: 1
+2024-01-24T13:10:57.903+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:10:57.903+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 30.326875ms, rows: 1
+2024-01-24T13:10:57.966+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:10:57.967+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:10:57.918',`sys_status`=2 WHERE `id` = 4, time: 62.823917ms, rows: 1
+2024-01-24T13:10:58.041+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:10:58.042+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',9312,'','2024-01-24 13:10:57.997','192.168.32.11',1), time: 59.759083ms, rows: 1
+2024-01-24T13:11:24.045+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:11:24.064+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:11:24.064+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 18.285416ms, rows: 4
+2024-01-24T13:11:24.064+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:11:24.157+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:11:24.157+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 19.526875ms, rows: 4
+2024-01-24T13:11:31.734+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:11:31.778+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:11:31.779+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 29.540917ms, rows: 1
+2024-01-24T13:11:31.916+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:11:31.916+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=5,`sys_updated`='2024-01-24 13:11:31.794' WHERE `id` = 2, time: 137.587959ms, rows: 1
+2024-01-24T13:11:31.972+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:11:31.972+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 31.516084ms, rows: 0
+2024-01-24T13:11:31.987+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:11:31.987+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.669667ms, rows: 0
+2024-01-24T13:11:47.328+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=6481
+
+2024-01-24T13:11:47.365+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:11:47.366+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:11:47.328' AND end_time >= '2024-01-24 13:11:47.328' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 37.719875ms, rows: 4
+2024-01-24T13:11:47.502+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:11:47.502+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 136.295375ms, rows: 1
+2024-01-24T13:11:47.550+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:11:47.550+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 32.15ms, rows: 1
+2024-01-24T13:11:47.611+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:11:47.612+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:11:47.565',`sys_status`=2 WHERE `id` = 5, time: 60.834084ms, rows: 1
+2024-01-24T13:11:47.689+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:11:47.689+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',6481,'','2024-01-24 13:11:47.642','192.168.32.11',1), time: 62.16475ms, rows: 1
+2024-01-24T13:11:50.138+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:11:50.154+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:11:50.154+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.057041ms, rows: 4
+2024-01-24T13:11:50.154+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:11:50.258+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:11:50.258+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.73675ms, rows: 4
+2024-01-24T13:12:05.985+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:12:06.042+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:12:06.043+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 33.780417ms, rows: 1
+2024-01-24T13:12:06.141+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:12:06.141+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=6,`sys_updated`='2024-01-24 13:12:06.059' WHERE `id` = 2, time: 97.9835ms, rows: 1
+2024-01-24T13:12:06.184+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:12:06.184+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 28.834292ms, rows: 0
+2024-01-24T13:12:06.201+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:12:06.201+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 16.522667ms, rows: 0
+2024-01-24T13:12:06.201+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=3094
+
+2024-01-24T13:12:06.231+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:12:06.231+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:12:06.201' AND end_time >= '2024-01-24 13:12:06.201' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 29.2615ms, rows: 4
+2024-01-24T13:12:06.290+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:12:06.290+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 59.47025ms, rows: 1
+2024-01-24T13:12:06.335+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:12:06.335+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 28.478042ms, rows: 1
+2024-01-24T13:12:06.396+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:12:06.397+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:12:06.349',`sys_status`=2 WHERE `id` = 6, time: 61.570208ms, rows: 1
+2024-01-24T13:12:06.473+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:12:06.473+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',3094,'','2024-01-24 13:12:06.427','192.168.32.11',1), time: 61.059583ms, rows: 1
+2024-01-24T13:12:08.415+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:12:08.462+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:12:08.462+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 29.536958ms, rows: 1
+2024-01-24T13:12:08.522+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:12:08.523+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=7,`sys_updated`='2024-01-24 13:12:08.478' WHERE `id` = 2, time: 59.80425ms, rows: 1
+2024-01-24T13:12:08.565+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:12:08.566+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 28.522292ms, rows: 0
+2024-01-24T13:12:08.580+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:12:08.581+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.63175ms, rows: 0
+2024-01-24T13:12:08.581+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=1002
+
+2024-01-24T13:12:08.613+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:12:08.613+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:12:08.581' AND end_time >= '2024-01-24 13:12:08.581' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 32.144459ms, rows: 4
+2024-01-24T13:12:10.040+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:12:10.087+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:12:10.087+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 30.849708ms, rows: 1
+2024-01-24T13:12:10.188+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:12:10.189+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=8,`sys_updated`='2024-01-24 13:12:10.103' WHERE `id` = 2, time: 100.843583ms, rows: 1
+2024-01-24T13:12:10.236+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:12:10.237+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 32.615375ms, rows: 0
+2024-01-24T13:12:10.252+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:12:10.253+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 15.549708ms, rows: 0
+2024-01-24T13:12:10.253+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=3568
+
+2024-01-24T13:12:10.283+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:12:10.283+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:12:10.253' AND end_time >= '2024-01-24 13:12:10.253' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 29.569416ms, rows: 4
+2024-01-24T13:12:10.346+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:12:10.347+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 63.157166ms, rows: 1
+2024-01-24T13:12:10.397+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:12:10.398+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 34.363ms, rows: 1
+2024-01-24T13:12:10.459+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:12:10.460+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:12:10.414',`sys_status`=2 WHERE `id` = 7, time: 61.479917ms, rows: 1
+2024-01-24T13:12:10.537+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:12:10.537+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',3568,'','2024-01-24 13:12:10.49','192.168.32.11',1), time: 61.091625ms, rows: 1
+2024-01-24T13:33:27.017+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:33:27.119+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:33:27.180+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:33:27.180+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 74.982917ms, rows: 4
+2024-01-24T13:33:27.201+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:33:27.201+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 81.9475ms, rows: 4
+2024-01-24T13:33:27.201+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:33:27.227+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:33:27.227+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 93.063625ms, rows: 1
+2024-01-24T13:33:27.291+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:33:27.292+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=9,`sys_updated`='2024-01-24 13:33:27.243' WHERE `id` = 2, time: 63.834583ms, rows: 1
+2024-01-24T13:33:27.335+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:33:27.336+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 28.940292ms, rows: 0
+2024-01-24T13:33:27.350+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:33:27.350+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.633334ms, rows: 0
+2024-01-24T13:33:27.351+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=7988
+
+2024-01-24T13:33:27.381+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:33:27.381+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:33:27.351' AND end_time >= '2024-01-24 13:33:27.351' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 30.170084ms, rows: 4
+2024-01-24T13:33:27.442+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:33:27.442+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 61.066709ms, rows: 1
+2024-01-24T13:33:27.486+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:33:27.486+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 28.418917ms, rows: 1
+2024-01-24T13:33:27.552+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:33:27.552+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:33:27.501',`sys_status`=2 WHERE `id` = 8, time: 66.057417ms, rows: 1
+2024-01-24T13:33:27.626+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:33:27.626+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',7988,'','2024-01-24 13:33:27.581','192.168.32.11',1), time: 58.918917ms, rows: 1
+2024-01-24T13:35:41.290+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=7
+2024-01-24T13:35:41.397+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:35:41.397+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=7 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 88.627667ms, rows: 1
+2024-01-24T13:35:41.465+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:35:41.465+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=10,`sys_updated`='2024-01-24 13:35:41.412' WHERE `id` = 2, time: 67.643667ms, rows: 1
+2024-01-24T13:35:41.511+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:35:41.512+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 30.150708ms, rows: 0
+2024-01-24T13:35:41.527+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:35:41.527+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.99ms, rows: 0
+2024-01-24T13:35:41.527+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=9370
+
+2024-01-24T13:35:41.558+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:35:41.558+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:35:41.527' AND end_time >= '2024-01-24 13:35:41.527' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 31.265833ms, rows: 4
+2024-01-24T13:35:41.619+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:35:41.619+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 60.964666ms, rows: 1
+2024-01-24T13:35:41.664+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:35:41.664+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 29.59075ms, rows: 1
+2024-01-24T13:35:41.729+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:35:41.729+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:35:41.68',`sys_status`=2 WHERE `id` = 9, time: 65.133917ms, rows: 1
+2024-01-24T13:35:41.806+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:35:41.806+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,7,'zhangsan',9370,'','2024-01-24 13:35:41.758','192.168.32.11',1), time: 62.698ms, rows: 1
+2024-01-24T13:35:44.821+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:35:44.837+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:35:44.837+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.379167ms, rows: 4
+2024-01-24T13:35:44.837+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:35:44.909+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:35:44.909+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 73.427334ms, rows: 4
+2024-01-24T13:35:58.712+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=1
+2024-01-24T13:35:58.760+0800	INFO	log/gormlog.go:53	caller is lotterytimes.go:42
+2024-01-24T13:35:58.760+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_lottery_times` WHERE user_id=1 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 30.898208ms, rows: 0
+2024-01-24T13:35:58.856+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:74
+2024-01-24T13:35:58.856+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_lottery_times` (`user_id`,`day`,`num`,`sys_created`,`sys_updated`) VALUES (1,20240124,1,'2024-01-24 13:35:58.775','2024-01-24 13:35:58.775'), time: 95.536584ms, rows: 1
+2024-01-24T13:35:58.902+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:35:58.903+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 30.402667ms, rows: 0
+2024-01-24T13:35:58.918+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:35:58.918+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 15.205708ms, rows: 0
+2024-01-24T13:35:58.918+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=539
+
+2024-01-24T13:35:58.954+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:35:58.954+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:35:58.918' AND end_time >= '2024-01-24 13:35:58.918' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 35.585583ms, rows: 4
+2024-01-24T13:36:12.393+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:36:12.394+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:36:12.394+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.278ms, rows: 4
+2024-01-24T13:36:12.410+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:36:12.410+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.065667ms, rows: 4
+2024-01-24T13:36:12.410+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:36:14.369+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=1
+2024-01-24T13:36:14.414+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:36:14.414+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=1 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 29.396125ms, rows: 1
+2024-01-24T13:36:14.503+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:36:14.503+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=2,`sys_updated`='2024-01-24 13:36:14.429' WHERE `id` = 3, time: 88.524958ms, rows: 1
+2024-01-24T13:36:14.550+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:36:14.550+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 30.777959ms, rows: 0
+2024-01-24T13:36:14.565+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:36:14.565+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 14.980875ms, rows: 0
+2024-01-24T13:36:14.565+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=4551
+
+2024-01-24T13:36:14.606+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:36:14.606+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:36:14.565' AND end_time >= '2024-01-24 13:36:14.565' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 40.511875ms, rows: 4
+2024-01-24T13:36:14.669+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:36:14.669+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 62.995292ms, rows: 1
+2024-01-24T13:36:14.714+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:36:14.714+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 29.665334ms, rows: 1
+2024-01-24T13:36:14.781+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:36:14.781+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:36:14.729',`sys_status`=2 WHERE `id` = 10, time: 66.983958ms, rows: 1
+2024-01-24T13:36:14.861+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:36:14.861+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,1,'zhangsan',4551,'','2024-01-24 13:36:14.813','192.168.32.11',1), time: 64.043875ms, rows: 1
+2024-01-24T13:37:12.428+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:37:12.510+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:37:12.510+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.025375ms, rows: 4
+2024-01-24T13:37:12.510+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:38:12.527+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:38:12.602+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:38:12.602+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 73.727333ms, rows: 4
+2024-01-24T13:38:12.602+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:38:22.192+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:38:22.193+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:38:22.193+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.952709ms, rows: 4
+2024-01-24T13:38:22.270+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:38:22.270+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 77.332833ms, rows: 4
+2024-01-24T13:38:22.270+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:38:30.980+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=1
+2024-01-24T13:38:31.030+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:38:31.030+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=1 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 32.546917ms, rows: 1
+2024-01-24T13:38:31.096+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:38:31.096+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=3,`sys_updated`='2024-01-24 13:38:31.046' WHERE `id` = 3, time: 65.552833ms, rows: 1
+2024-01-24T13:38:31.141+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:38:31.141+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 29.273167ms, rows: 0
+2024-01-24T13:38:31.158+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:38:31.158+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 16.199042ms, rows: 0
+2024-01-24T13:38:31.158+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=4180
+
+2024-01-24T13:38:31.188+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:38:31.188+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:38:31.158' AND end_time >= '2024-01-24 13:38:31.158' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 29.859916ms, rows: 4
+2024-01-24T13:38:31.254+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:38:31.254+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 65.079958ms, rows: 1
+2024-01-24T13:38:31.298+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:38:31.298+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 30.101917ms, rows: 1
+2024-01-24T13:38:31.366+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:38:31.366+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:38:31.314',`sys_status`=2 WHERE `id` = 11, time: 67.4805ms, rows: 1
+2024-01-24T13:38:31.441+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:38:31.441+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,1,'zhangsan',4180,'','2024-01-24 13:38:31.396','192.168.32.11',1), time: 60.292333ms, rows: 1
+2024-01-24T13:38:34.721+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:38:34.722+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:38:34.722+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 18.432209ms, rows: 4
+2024-01-24T13:38:34.740+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:38:34.740+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 17.574084ms, rows: 4
+2024-01-24T13:38:34.740+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:38:37.466+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=1
+2024-01-24T13:38:37.515+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:38:37.515+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=1 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 33.315833ms, rows: 1
+2024-01-24T13:38:37.578+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:38:37.578+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=4,`sys_updated`='2024-01-24 13:38:37.531' WHERE `id` = 3, time: 62.348542ms, rows: 1
+2024-01-24T13:38:37.622+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:38:37.623+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 29.669834ms, rows: 0
+2024-01-24T13:38:37.639+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:38:37.640+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 16.776666ms, rows: 0
+2024-01-24T13:38:37.640+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=4401
+
+2024-01-24T13:38:37.673+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:38:37.674+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:38:37.64' AND end_time >= '2024-01-24 13:38:37.64' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 33.048667ms, rows: 4
+2024-01-24T13:38:37.735+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:38:37.735+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 61.185458ms, rows: 1
+2024-01-24T13:38:37.784+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:38:37.784+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 31.137166ms, rows: 1
+2024-01-24T13:38:37.846+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:38:37.846+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:38:37.8',`sys_status`=2 WHERE `id` = 12, time: 61.301708ms, rows: 1
+2024-01-24T13:38:37.923+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:38:37.923+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,1,'zhangsan',4401,'','2024-01-24 13:38:37.877','192.168.32.11',1), time: 61.056084ms, rows: 1
+2024-01-24T13:39:26.932+0800	INFO	service/lotteryv1.go:39	LotteryV1|user_id=1
+2024-01-24T13:39:27.044+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:42
+2024-01-24T13:39:27.044+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_lottery_times` WHERE user_id=1 and day=20240124 ORDER BY `t_lottery_times`.`id` LIMIT 1, time: 93.537208ms, rows: 1
+2024-01-24T13:39:27.121+0800	INFO	log/gormlog.go:63	caller is lotterytimes.go:105
+2024-01-24T13:39:27.121+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_lottery_times` SET `num`=5,`sys_updated`='2024-01-24 13:39:27.06' WHERE `id` = 3, time: 76.419375ms, rows: 1
+2024-01-24T13:39:27.168+0800	INFO	log/gormlog.go:53	caller is blackip.go:50
+2024-01-24T13:39:27.168+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_ip` WHERE ip = '192.168.32.11' ORDER BY `t_black_ip`.`id` LIMIT 1, time: 31.211042ms, rows: 0
+2024-01-24T13:39:27.183+0800	INFO	log/gormlog.go:53	caller is blackuser.go:30
+2024-01-24T13:39:27.184+0800	INFO	log/gormlog.go:53	Trace-ID:, Database ErrRecordNotFound，sql: SELECT * FROM `t_black_user` ORDER BY `t_black_user`.`id` LIMIT 1, time: 15.009541ms, rows: 0
+2024-01-24T13:39:27.184+0800	INFO	service/lotteryv1.go:101	Trace-ID:, LotteryHandlerV1|prizeCode=8868
+
+2024-01-24T13:39:27.215+0800	INFO	log/gormlog.go:63	caller is prize.go:200
+2024-01-24T13:39:27.215+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize` WHERE begin_time<='2024-01-24 13:39:27.184' AND end_time >= '2024-01-24 13:39:27.184' AND prize_num>0 AND sys_status=1 ORDER BY sys_updated desc,display_order asc, time: 31.060541ms, rows: 4
+2024-01-24T13:39:27.282+0800	INFO	log/gormlog.go:63	caller is prize.go:228
+2024-01-24T13:39:27.283+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_prize` SET `left_num`=left_num - 1 WHERE id = 4 and left_num >= 1, time: 66.821833ms, rows: 1
+2024-01-24T13:39:27.327+0800	INFO	log/gormlog.go:63	caller is coupon.go:169
+2024-01-24T13:39:27.328+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_coupon` WHERE prize_id=4 AND id > 0 AND sys_status = 1 ORDER BY `t_coupon`.`id` LIMIT 1, time: 29.242834ms, rows: 1
+2024-01-24T13:39:27.391+0800	INFO	log/gormlog.go:63	caller is coupon.go:122
+2024-01-24T13:39:27.391+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: UPDATE `t_coupon` SET `sys_updated`='2024-01-24 13:39:27.345',`sys_status`=2 WHERE `id` = 13, time: 63.46ms, rows: 1
+2024-01-24T13:39:27.465+0800	INFO	log/gormlog.go:63	caller is result.go:65
+2024-01-24T13:39:27.466+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: INSERT INTO `t_result` (`prize_id`,`prize_name`,`prize_type`,`user_id`,`user_name`,`prize_code`,`prize_data`,`sys_created`,`sys_ip`,`sys_status`) VALUES (4,'优惠券',2,1,'zhangsan',8868,'','2024-01-24 13:39:27.42','192.168.32.11',1), time: 59.442833ms, rows: 1
+2024-01-24T13:39:34.761+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:39:34.778+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:39:34.779+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 17.334ms, rows: 4
+2024-01-24T13:39:34.779+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:40:34.795+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:40:34.870+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:40:34.871+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 75.050458ms, rows: 4
+2024-01-24T13:40:34.871+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:41:34.891+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:41:34.964+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:41:34.965+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 73.159958ms, rows: 4
+2024-01-24T13:41:34.965+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:42:34.986+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:42:35.072+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:42:35.072+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 84.564666ms, rows: 4
+2024-01-24T13:42:35.072+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:43:34.822+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:43:34.822+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 83.501375ms, rows: 4
+2024-01-24T13:43:35.093+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:43:35.110+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:43:35.110+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.736ms, rows: 4
+2024-01-24T13:43:35.110+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:44:35.126+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:44:35.205+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:44:35.205+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 78.075708ms, rows: 4
+2024-01-24T13:44:35.205+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:45:35.227+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:45:35.305+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:45:35.306+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 78.130458ms, rows: 4
+2024-01-24T13:45:35.306+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:46:35.326+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:46:35.403+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:46:35.403+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.722333ms, rows: 4
+2024-01-24T13:46:35.403+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:47:35.424+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:47:35.498+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:47:35.498+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 73.691583ms, rows: 4
+2024-01-24T13:47:35.498+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:48:34.922+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:48:34.923+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 78.678708ms, rows: 4
+2024-01-24T13:48:35.518+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:48:35.536+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:48:35.536+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 16.81475ms, rows: 4
+2024-01-24T13:48:35.536+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:49:35.554+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:49:35.631+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:49:35.631+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.111083ms, rows: 4
+2024-01-24T13:49:35.631+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:50:35.648+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:50:35.728+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:50:35.729+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 80.16425ms, rows: 4
+2024-01-24T13:50:35.729+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:51:35.746+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:51:35.822+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:51:35.822+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.107541ms, rows: 4
+2024-01-24T13:51:35.823+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:52:35.842+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:52:35.918+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:52:35.919+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 75.484208ms, rows: 4
+2024-01-24T13:52:35.919+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:53:35.022+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:53:35.022+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 77.391041ms, rows: 4
+2024-01-24T13:53:35.936+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:53:35.952+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:53:35.952+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.727459ms, rows: 4
+2024-01-24T13:53:35.952+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:54:35.968+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:54:36.052+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:54:36.052+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 82.993833ms, rows: 4
+2024-01-24T13:54:36.052+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:55:36.069+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:55:36.149+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:55:36.149+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.534625ms, rows: 4
+2024-01-24T13:55:36.149+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:56:36.170+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:56:36.251+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:56:36.251+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 79.6235ms, rows: 4
+2024-01-24T13:56:36.251+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:57:36.271+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:57:36.348+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:57:36.348+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 76.891375ms, rows: 4
+2024-01-24T13:57:36.348+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:58:35.123+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:58:35.123+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 77.994833ms, rows: 4
+2024-01-24T13:58:36.365+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:58:36.380+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:58:36.380+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 15.024667ms, rows: 4
+2024-01-24T13:58:36.380+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0
+2024-01-24T13:59:36.400+0800	INFO	biz/admin.go:731	FillAllPrizePool!!!!
+2024-01-24T13:59:36.476+0800	INFO	log/gormlog.go:63	caller is prize.go:57
+2024-01-24T13:59:36.476+0800	INFO	log/gormlog.go:63	Trace-ID:, Database Slow Log sql: SELECT * FROM `t_prize`, time: 74.830959ms, rows: 4
+2024-01-24T13:59:36.476+0800	INFO	biz/admin.go:736	FillAllPrizePool with num:0

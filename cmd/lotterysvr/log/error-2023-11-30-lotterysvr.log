@@ -1,0 +1,2 @@
+2023-11-30T23:32:14.807+0800	ERROR	service/lotteryv2.go:44	Trace-ID:, LotteryHandler|Process:redis: Conn is in a bad state: read tcp 10.44.0.7:50469->192.168.5.52:6379: i/o timeout
+2023-11-30T23:32:14.808+0800	ERROR	interfaces/lotteryv2.go:38	Trace-ID:, http lotteryv2|err:LotteryV1|lock err
