@@ -109,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.6.linux-amd64" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -129,6 +129,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
     &quot;Go 构建.go build github.com/BitofferHub/lotterysvr/cmd/lotterysvr.executor&quot;: &quot;Debug&quot;,
+    &quot;Go 构建.lotterysvr.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
@@ -152,8 +153,8 @@
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
       <window_info id="DFA" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.268759" />
-      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24251303" />
+      <window_info id="Commit" order="1" weight="0.268759" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
@@ -163,8 +164,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.5501836" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.3539977" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33661646" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.33661646" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
@@ -176,8 +177,8 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
     </layout>
   </component>
-  <component name="RunManager" selected="Go 构建.go build github.com/BitofferHub/lotterysvr/cmd/lotterysvr">
-    <configuration name="go build github.com/BitofferHub/lotterysvr/cmd/lotterysvr" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.lotterysvr">
+    <configuration name="lotterysvr" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="lotterysvr" />
       <working_directory value="$PROJECT_DIR$/cmd/lotterysvr" />
       <kind value="DIRECTORY" />
@@ -276,7 +277,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go 构建.go build github.com/BitofferHub/lotterysvr/cmd/lotterysvr" />
+      <item itemvalue="Go 构建.lotterysvr" />
       <item itemvalue="Go 测试.TestLotteryV1 in github.com/bitstormhub/bitstorm/lotterysvr/internal/interfaces" />
       <item itemvalue="Go 测试.TestAddPrizeList in github.com/BitofferHub/lotterysvr/internal/interfaces" />
       <item itemvalue="Go 测试.TestAddPrizeList in github.com/bitstormhub/bitstorm/lotterysvr/internal/interfaces" />

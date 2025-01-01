@@ -12,6 +12,7 @@ import (
 	"github.com/BitofferHub/lotterysvr/internal/server"
 	"github.com/BitofferHub/lotterysvr/internal/service"
 	"github.com/BitofferHub/lotterysvr/internal/task"
+	"github.com/go-kratos/kratos/v2"
 	"github.com/google/wire"
 )
 
