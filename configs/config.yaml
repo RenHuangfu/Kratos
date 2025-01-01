@@ -24,9 +24,9 @@ server:
 
 data:
   database:
-    addr: 192.168.5.51:3306
+    addr: 172.12.0.1:3306
     user: root
-    password: "123456"
+    password: "000"
     database: lottery_system
     max_idle_conn : 2000
     max_open_conn: 20000
@@ -34,8 +34,8 @@ data:
     slow_threshold_millisecond: 10 # SQL执行超过10ms，就算慢sql
 
   redis:
-    addr: 192.168.5.52:6379
-    password: "123456"
+    addr: 172.12.0.1:6379
+    password:
     db: 8
     pool_size: 20
     read_timeout: 2s
